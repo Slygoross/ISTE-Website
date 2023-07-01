@@ -4,7 +4,7 @@ import React from "react";
 export default function Navbar() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
+      <nav className="navbar navbar-expand-lg bg-black navbar-dark">
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
             <img src={image1} alt="ISTE logo" width="auto" height="50px"/>
